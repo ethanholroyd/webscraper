@@ -1,50 +1,51 @@
-ABC News (Online): BIAS RATING = left-center  COMMUNITY: AGREE = 40253 DISAGRE = 19964 RATIO = 2.016279302744941 TEXT = strongly agrees  LINK: https://www.allsides.com/news-source/abc-news-media-bias
-AJ+: BIAS RATING = left  COMMUNITY: AGREE = 743 DISAGRE = 273 RATIO = 2.7216117216117217 TEXT = strongly agrees  LINK: https://www.allsides.com/news-source/aj-media-bias
-AZ Central: BIAS RATING = center  COMMUNITY: AGREE = 334 DISAGRE = 619 RATIO = 0.5395799676898223 TEXT = disagrees  LINK: https://www.allsides.com/news-source/az-central-media-bias
-Aberdeen News: BIAS RATING = center  COMMUNITY: AGREE = 5 DISAGRE = 5 RATIO = 1.0 TEXT = neutral  LINK: https://www.allsides.com/news-source/aberdeen-news-media-bias
-Above The Law: BIAS RATING = left-center  COMMUNITY: AGREE = 374 DISAGRE = 234 RATIO = 1.5982905982905984 TEXT = agrees  LINK: https://www.allsides.com/news-source/above-law-media-bias
-Abridge News: BIAS RATING = allsides  COMMUNITY: AGREE = 480 DISAGRE = 326 RATIO = 1.4723926380368098 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/abridge-news-media-bias
-Addison County Independent: BIAS RATING = center  COMMUNITY: AGREE = 5 DISAGRE = 8 RATIO = 0.625 TEXT = disagrees  LINK: https://www.allsides.com/news-source/addison-county-independent-media-bias
-Adventist Today: BIAS RATING = left-center  COMMUNITY: AGREE = 17 DISAGRE = 28 RATIO = 0.6071428571428571 TEXT = disagrees  LINK: https://www.allsides.com/news-source/adventist-today-media-bias
-Advocate: BIAS RATING = left-center  COMMUNITY: AGREE = 22 DISAGRE = 28 RATIO = 0.7857142857142857 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/advocate-media-bias-0
-AframNews: BIAS RATING = left  COMMUNITY: AGREE = 21 DISAGRE = 21 RATIO = 1.0 TEXT = neutral  LINK: https://www.allsides.com/news-source/aframnews-media-bias
-African American Conservatives: BIAS RATING = right  COMMUNITY: AGREE = 31 DISAGRE = 30 RATIO = 1.0333333333333334 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/african-american-conservatives-media-bias
-Afro: BIAS RATING = left  COMMUNITY: AGREE = 23 DISAGRE = 17 RATIO = 1.3529411764705883 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/afro-media-bias
-Aiken Standard: BIAS RATING = center  COMMUNITY: AGREE = 4 DISAGRE = 2 RATIO = 2.0 TEXT = agrees  LINK: https://www.allsides.com/news-source/aiken-standard-media-bias
-Akron Beacon Journal: BIAS RATING = center  COMMUNITY: AGREE = 4 DISAGRE = 6 RATIO = 0.6666666666666666 TEXT = disagrees  LINK: https://www.allsides.com/news-source/akron-beacon-journal-media-bias
-Al Jazeera: BIAS RATING = left-center  COMMUNITY: AGREE = 5411 DISAGRE = 7807 RATIO = 0.6930959395414372 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/al-jazeera-media-bias
-Alabama News Network: BIAS RATING = center  COMMUNITY: AGREE = 3 DISAGRE = 5 RATIO = 0.6 TEXT = disagrees  LINK: https://www.allsides.com/news-source/alabama-news-network-media-bias
-Alamosa News: BIAS RATING = center  COMMUNITY: AGREE = 6 DISAGRE = 3 RATIO = 2.0 TEXT = agrees  LINK: https://www.allsides.com/news-source/alamosa-news-media-bias
-Albany Democrat-Herald: BIAS RATING = center  COMMUNITY: AGREE = 3 DISAGRE = 2 RATIO = 1.5 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/albany-democrat-herald-media-bias
-Albert Lea Tribune: BIAS RATING = center  COMMUNITY: AGREE = 13 DISAGRE = 16 RATIO = 0.8125 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/albert-lea-tribune-media-bias
-Albuquerque Journal: BIAS RATING = center  COMMUNITY: AGREE = 23 DISAGRE = 49 RATIO = 0.46938775510204084 TEXT = strongly disagrees  LINK: https://www.allsides.com/news-source/albuquerque-journal-media-bias
-AllSides: BIAS RATING = allsides  COMMUNITY: AGREE = 4433 DISAGRE = 1772 RATIO = 2.5016930022573365 TEXT = strongly agrees  LINK: https://www.allsides.com/news-source/allsides
-Alleghany News: BIAS RATING = center  COMMUNITY: AGREE = 2 DISAGRE = 6 RATIO = 0.3333333333333333 TEXT = strongly disagrees  LINK: https://www.allsides.com/news-source/alleghany-news-media-bias
-Alpha News: BIAS RATING = right  COMMUNITY: AGREE = 16 DISAGRE = 13 RATIO = 1.2307692307692308 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/alpha-news-media-bias
-AlterNet: BIAS RATING = left  COMMUNITY: AGREE = 15459 DISAGRE = 3514 RATIO = 4.399260102447354 TEXT = absolutely agrees  LINK: https://www.allsides.com/news-source/alternet-media-bias
-America's 1st Freedom: BIAS RATING = right-center  COMMUNITY: AGREE = 23 DISAGRE = 18 RATIO = 1.2777777777777777 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/americas-1st-freedom-media-bias
-American Greatness: BIAS RATING = right  COMMUNITY: AGREE = 611 DISAGRE = 278 RATIO = 2.197841726618705 TEXT = strongly agrees  LINK: https://www.allsides.com/news-source/american-greatness-media-bias
-American Press: BIAS RATING = left-center  COMMUNITY: AGREE = 41 DISAGRE = 35 RATIO = 1.1714285714285715 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/american-press
-American Thinker: BIAS RATING = right  COMMUNITY: AGREE = 2142 DISAGRE = 1138 RATIO = 1.882249560632689 TEXT = agrees  LINK: https://www.allsides.com/news-source/american-thinker
-Anchorage Daily News: BIAS RATING = center  COMMUNITY: AGREE = 79 DISAGRE = 81 RATIO = 0.9753086419753086 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/anchorage-daily-news
-Anchorage Press: BIAS RATING = center  COMMUNITY: AGREE = 1 DISAGRE = 3 RATIO = 0.3333333333333333 TEXT = strongly disagrees  LINK: https://www.allsides.com/news-source/anchorage-press-media-bias
-Anderson Independent-Mail: BIAS RATING = center  COMMUNITY: AGREE = 1 DISAGRE = 2 RATIO = 0.5 TEXT = strongly disagrees  LINK: https://www.allsides.com/news-source/anderson-independent-mail-media-bias
-Aquinas College Saint: BIAS RATING = left  COMMUNITY: AGREE = 1063 DISAGRE = 720 RATIO = 1.476388888888889 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/aquinas-college-saint
-Arc Digital: BIAS RATING = center  COMMUNITY: AGREE = 71 DISAGRE = 81 RATIO = 0.8765432098765432 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/arc-digital-media-bias
-Argus Leader: BIAS RATING = center  COMMUNITY: AGREE = 1 DISAGRE = 0 RATIO = 4 TEXT = absolutely agrees  LINK: https://www.allsides.com/news-source/argus-leader-media-bias
-Arizona Daily Star: tucson.com: BIAS RATING = center  COMMUNITY: AGREE = 2 DISAGRE = 2 RATIO = 1.0 TEXT = neutral  LINK: https://www.allsides.com/news-source/arizona-daily-star-tucsoncom-media-bias
-Arizona Mirror: BIAS RATING = center  COMMUNITY: AGREE = 37 DISAGRE = 54 RATIO = 0.6851851851851852 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/arizona-mirror-media-bias
-Arkansas Democrat-Gazette: BIAS RATING = left  COMMUNITY: AGREE = 1155 DISAGRE = 910 RATIO = 1.2692307692307692 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/arkansas-democrat-gazette
-Ars Technica: BIAS RATING = center  COMMUNITY: AGREE = 46 DISAGRE = 82 RATIO = 0.5609756097560976 TEXT = disagrees  LINK: https://www.allsides.com/news-source/ars-technica-media-bias
-Asbury Park Press: BIAS RATING = center  COMMUNITY: AGREE = 0 DISAGRE = 3 RATIO = 0 TEXT = absolutely disagrees  LINK: https://www.allsides.com/news-source/asbury-park-press-media-bias
-Associated Press: BIAS RATING = left-center  COMMUNITY: AGREE = 33083 DISAGRE = 25900 RATIO = 1.2773359073359074 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/associated-press-media-bias
-Associated Press Fact Check: BIAS RATING = left-center  COMMUNITY: AGREE = 6534 DISAGRE = 7572 RATIO = 0.8629160063391442 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/ap-fact-check-media-bias
-Atlanta Black Star: BIAS RATING = left-center  COMMUNITY: AGREE = 167 DISAGRE = 224 RATIO = 0.7455357142857143 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/atlanta-black-star-media-bias
-Atlanta Journal-Constitution: BIAS RATING = left-center  COMMUNITY: AGREE = 1237 DISAGRE = 1107 RATIO = 1.11743450767841 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/atlanta-journal-constitution
-Attitude Magazine: BIAS RATING = left-center  COMMUNITY: AGREE = 14 DISAGRE = 16 RATIO = 0.875 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/attitude-magazine-media-bias
-Austin American-Statesman: BIAS RATING = left-center  COMMUNITY: AGREE = 1061 DISAGRE = 869 RATIO = 1.2209436133486766 TEXT = somewhat agrees  LINK: https://www.allsides.com/news-source/austin-american-statesman
-Austin Daily Herald: BIAS RATING = center  COMMUNITY: AGREE = 12 DISAGRE = 15 RATIO = 0.8 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/austin-daily-herald-media-bias
-Avenue News: BIAS RATING = center  COMMUNITY: AGREE = 1 DISAGRE = 0 RATIO = 4 TEXT = absolutely agrees  LINK: https://www.allsides.com/news-source/avenue-news-media-bias
-Avoyelles Journal: BIAS RATING = center  COMMUNITY: AGREE = 2 DISAGRE = 0 RATIO = 4 TEXT = absolutely agrees  LINK: https://www.allsides.com/news-source/avoyelles-journal-media-bias
-Axios: BIAS RATING = left-center  COMMUNITY: AGREE = 7868 DISAGRE = 8778 RATIO = 0.8963317384370016 TEXT = somewhat disagrees  LINK: https://www.allsides.com/news-source/axios
-azcentral: BIAS RATING = center  COMMUNITY: AGREE = 0 DISAGRE = 0 RATIO = 1 TEXT = neutral  LINK: https://www.allsides.com/news-source/azcentral-media-bias
+||               NAME                ||  BAIS_RATING  || COMMUNITY ||   AGREE    |  DISAGREE  | RATIO | TEXT                   || LINK
+|| ABC News (Online)                 ||  left-center  ||           ||   40253    |   19964    | 2.016 | strongly agrees        || https://www.allsides.com/news-source/abc-news-media-bias
+|| AJ+                               ||     left      ||           ||    743     |    273     | 2.722 | strongly agrees        || https://www.allsides.com/news-source/aj-media-bias
+|| AZ Central                        ||    center     ||           ||    334     |    619     | 0.540 | disagrees              || https://www.allsides.com/news-source/az-central-media-bias
+|| Aberdeen News                     ||    center     ||           ||     5      |     5      | 1.000 | neutral                || https://www.allsides.com/news-source/aberdeen-news-media-bias
+|| Above The Law                     ||  left-center  ||           ||    374     |    234     | 1.598 | agrees                 || https://www.allsides.com/news-source/above-law-media-bias
+|| Abridge News                      ||   allsides    ||           ||    480     |    326     | 1.472 | somewhat agrees        || https://www.allsides.com/news-source/abridge-news-media-bias
+|| Addison County Independent        ||    center     ||           ||     5      |     8      | 0.625 | disagrees              || https://www.allsides.com/news-source/addison-county-independent-media-bias
+|| Adventist Today                   ||  left-center  ||           ||     17     |     28     | 0.607 | disagrees              || https://www.allsides.com/news-source/adventist-today-media-bias
+|| Advocate                          ||  left-center  ||           ||     22     |     28     | 0.786 | somewhat disagrees     || https://www.allsides.com/news-source/advocate-media-bias-0
+|| AframNews                         ||     left      ||           ||     21     |     21     | 1.000 | neutral                || https://www.allsides.com/news-source/aframnews-media-bias
+|| African American Conservatives    ||     right     ||           ||     31     |     30     | 1.033 | somewhat agrees        || https://www.allsides.com/news-source/african-american-conservatives-media-bias
+|| Afro                              ||     left      ||           ||     23     |     17     | 1.353 | somewhat agrees        || https://www.allsides.com/news-source/afro-media-bias
+|| Aiken Standard                    ||    center     ||           ||     4      |     2      | 2.000 | agrees                 || https://www.allsides.com/news-source/aiken-standard-media-bias
+|| Akron Beacon Journal              ||    center     ||           ||     4      |     6      | 0.667 | disagrees              || https://www.allsides.com/news-source/akron-beacon-journal-media-bias
+|| Al Jazeera                        ||  left-center  ||           ||    5411    |    7807    | 0.693 | somewhat disagrees     || https://www.allsides.com/news-source/al-jazeera-media-bias
+|| Alabama News Network              ||    center     ||           ||     3      |     5      | 0.600 | disagrees              || https://www.allsides.com/news-source/alabama-news-network-media-bias
+|| Alamosa News                      ||    center     ||           ||     6      |     3      | 2.000 | agrees                 || https://www.allsides.com/news-source/alamosa-news-media-bias
+|| Albany Democrat-Herald            ||    center     ||           ||     3      |     2      | 1.500 | somewhat agrees        || https://www.allsides.com/news-source/albany-democrat-herald-media-bias
+|| Albert Lea Tribune                ||    center     ||           ||     13     |     16     | 0.812 | somewhat disagrees     || https://www.allsides.com/news-source/albert-lea-tribune-media-bias
+|| Albuquerque Journal               ||    center     ||           ||     23     |     49     | 0.469 | strongly disagrees     || https://www.allsides.com/news-source/albuquerque-journal-media-bias
+|| AllSides                          ||   allsides    ||           ||    4433    |    1772    | 2.502 | strongly agrees        || https://www.allsides.com/news-source/allsides
+|| Alleghany News                    ||    center     ||           ||     2      |     6      | 0.333 | strongly disagrees     || https://www.allsides.com/news-source/alleghany-news-media-bias
+|| Alpha News                        ||     right     ||           ||     16     |     13     | 1.231 | somewhat agrees        || https://www.allsides.com/news-source/alpha-news-media-bias
+|| AlterNet                          ||     left      ||           ||   15459    |    3514    | 4.399 | absolutely agrees      || https://www.allsides.com/news-source/alternet-media-bias
+|| America's 1st Freedom             || right-center  ||           ||     23     |     18     | 1.278 | somewhat agrees        || https://www.allsides.com/news-source/americas-1st-freedom-media-bias
+|| American Greatness                ||     right     ||           ||    611     |    278     | 2.198 | strongly agrees        || https://www.allsides.com/news-source/american-greatness-media-bias
+|| American Press                    ||  left-center  ||           ||     41     |     35     | 1.171 | somewhat agrees        || https://www.allsides.com/news-source/american-press
+|| American Thinker                  ||     right     ||           ||    2142    |    1138    | 1.882 | agrees                 || https://www.allsides.com/news-source/american-thinker
+|| Anchorage Daily News              ||    center     ||           ||     79     |     81     | 0.975 | somewhat disagrees     || https://www.allsides.com/news-source/anchorage-daily-news
+|| Anchorage Press                   ||    center     ||           ||     1      |     3      | 0.333 | strongly disagrees     || https://www.allsides.com/news-source/anchorage-press-media-bias
+|| Anderson Independent-Mail         ||    center     ||           ||     1      |     2      | 0.500 | strongly disagrees     || https://www.allsides.com/news-source/anderson-independent-mail-media-bias
+|| Aquinas College Saint             ||     left      ||           ||    1063    |    720     | 1.476 | somewhat agrees        || https://www.allsides.com/news-source/aquinas-college-saint
+|| Arc Digital                       ||    center     ||           ||     71     |     81     | 0.877 | somewhat disagrees     || https://www.allsides.com/news-source/arc-digital-media-bias
+|| Argus Leader                      ||    center     ||           ||     1      |     0      | 4.000 | absolutely agrees      || https://www.allsides.com/news-source/argus-leader-media-bias
+|| Arizona Daily Star: tucson.com    ||    center     ||           ||     2      |     2      | 1.000 | neutral                || https://www.allsides.com/news-source/arizona-daily-star-tucsoncom-media-bias
+|| Arizona Mirror                    ||    center     ||           ||     37     |     54     | 0.685 | somewhat disagrees     || https://www.allsides.com/news-source/arizona-mirror-media-bias
+|| Arkansas Democrat-Gazette         ||     left      ||           ||    1155    |    910     | 1.269 | somewhat agrees        || https://www.allsides.com/news-source/arkansas-democrat-gazette
+|| Ars Technica                      ||    center     ||           ||     46     |     82     | 0.561 | disagrees              || https://www.allsides.com/news-source/ars-technica-media-bias
+|| Asbury Park Press                 ||    center     ||           ||     0      |     3      | 0.000 | absolutely disagrees   || https://www.allsides.com/news-source/asbury-park-press-media-bias
+|| Associated Press                  ||  left-center  ||           ||   33083    |   25900    | 1.277 | somewhat agrees        || https://www.allsides.com/news-source/associated-press-media-bias
+|| Associated Press Fact Check       ||  left-center  ||           ||    6534    |    7572    | 0.863 | somewhat disagrees     || https://www.allsides.com/news-source/ap-fact-check-media-bias
+|| Atlanta Black Star                ||  left-center  ||           ||    167     |    224     | 0.746 | somewhat disagrees     || https://www.allsides.com/news-source/atlanta-black-star-media-bias
+|| Atlanta Journal-Constitution      ||  left-center  ||           ||    1237    |    1107    | 1.117 | somewhat agrees        || https://www.allsides.com/news-source/atlanta-journal-constitution
+|| Attitude Magazine                 ||  left-center  ||           ||     14     |     16     | 0.875 | somewhat disagrees     || https://www.allsides.com/news-source/attitude-magazine-media-bias
+|| Austin American-Statesman         ||  left-center  ||           ||    1061    |    869     | 1.221 | somewhat agrees        || https://www.allsides.com/news-source/austin-american-statesman
+|| Austin Daily Herald               ||    center     ||           ||     12     |     15     | 0.800 | somewhat disagrees     || https://www.allsides.com/news-source/austin-daily-herald-media-bias
+|| Avenue News                       ||    center     ||           ||     1      |     0      | 4.000 | absolutely agrees      || https://www.allsides.com/news-source/avenue-news-media-bias
+|| Avoyelles Journal                 ||    center     ||           ||     2      |     0      | 4.000 | absolutely agrees      || https://www.allsides.com/news-source/avoyelles-journal-media-bias
+|| Axios                             ||  left-center  ||           ||    7868    |    8778    | 0.896 | somewhat disagrees     || https://www.allsides.com/news-source/axios
+|| azcentral                         ||    center     ||           ||     0      |     0      | 1.000 | neutral                || https://www.allsides.com/news-source/azcentral-media-bias

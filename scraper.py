@@ -27,18 +27,22 @@ def find_ratio(agree, disagree):
 def print_data_to_files(data):
     data = sorted(data, key=lambda d: d['name'])
     f = open('sorted_name.txt', 'w')
+    
+    f.write("|| {:^33} || {:^13} || {:^} || {:^10} | {:^10} | {:^} | {:<22} || {}\n".format("NAME", "BAIS_RATING", "COMMUNITY", "AGREE", "DISAGREE", "RATIO", "TEXT", "LINK"))
     for d in data:
-        f.write(f"{d['name']}: BIAS RATING = {d['bias']}  COMMUNITY: AGREE = {d['agree']} DISAGRE = {d['disagree']} RATIO = {d['agree_ratio']} TEXT = {d['agreeance_text']}  LINK: {d['allsides_page']}\n")
+        f.write(f"|| {d['name'] :<33} || {d['bias']:^13} ||           || {d['agree']:^10} | {d['disagree']:^10} | {d['agree_ratio']:.3f} | {d['agreeance_text']:<22} || {d['allsides_page']}\n")
     f.close()
     f = open('sorted_bias.txt', 'w')
     data = sorted(data, key=lambda d: d['bias'])
+    f.write("|| {:^33} || {:^13} || {:^} || {:^10} | {:^10} | {:^} | {:<22} || {}\n".format("NAME", "BAIS_RATING", "COMMUNITY", "AGREE", "DISAGREE", "RATIO", "TEXT", "LINK"))
     for d in data:
-        f.write(f"{d['name']}: BIAS RATING = {d['bias']}  COMMUNITY: AGREE = {d['agree']} DISAGRE = {d['disagree']} RATIO = {d['agree_ratio']} TEXT = {d['agreeance_text']}  LINK: {d['allsides_page']}\n")
+        f.write(f"|| {d['name'] :<33} || {d['bias']:^13} ||           || {d['agree']:^10} | {d['disagree']:^10} | {d['agree_ratio']:.3f} | {d['agreeance_text']:<22} || {d['allsides_page']}\n")
     f.close()
     f = open('sorted_ratio.txt', 'w')
     data = sorted(data, key=lambda d: d['agree_ratio'], reverse=True)
+    f.write("|| {:^33} || {:^13} || {:^} || {:^10} | {:^10} | {:^} | {:<22} || {}\n".format("NAME", "BAIS_RATING", "COMMUNITY", "AGREE", "DISAGREE", "RATIO", "TEXT", "LINK"))
     for d in data:
-        f.write(f"{d['name']}: BIAS RATING = {d['bias']}  COMMUNITY: AGREE = {d['agree']} DISAGRE = {d['disagree']} RATIO = {d['agree_ratio']} TEXT = {d['agreeance_text']}  LINK: {d['allsides_page']}\n")
+        f.write(f"|| {d['name'] :<33} || {d['bias']:^13} ||           || {d['agree']:^10} | {d['disagree']:^10} | {d['agree_ratio']:.3f} | {d['agreeance_text']:<22} || {d['allsides_page']}\n")
     f.close()
     
 url = 'https://www.allsides.com/media-bias/ratings?field_featured_bias_rating_value=All&field_news_source_type_tid%5B%5D=2&field_news_bias_nid_1%5B1%5D=1&field_news_bias_nid_1%5B2%5D=2&field_news_bias_nid_1%5B3%5D=3&title='
